@@ -96,6 +96,9 @@ scRNA_LUAD_Immunotherapy/
 
 ## Notes for reviewers
 
+**Data availability:**  
+Raw and processed expression matrices are not included in this repository due to size constraints. All analyses were performed on publicly available data from GEO (GSE207422).
+
 - All annotations are **probabilistic and data-driven**, not hard labels.
 - No pseudobulk aggregation was used in the single-cell analysis.
 - Gene signatures were deliberately reused across scRNA-seq and bulk RNA-seq to ensure biological consistency.
