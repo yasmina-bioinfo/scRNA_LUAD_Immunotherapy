@@ -1,0 +1,15 @@
+# Ignore raw and processed data
+Data/
+
+# Ignore large AnnData objects if any outside Data
+*.h5ad
+
+# Ignore temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,10 @@
+cluster,n_top_genes_used,best_major,best_major_score,best_T_state,best_T_state_score,top_labels
+0,50,T_cells,12,T_naive_memory,5,T_cells:12; T_naive_memory:5; T_activation:3; NK_cells:0; B_cells:0; Plasma_cells:0
+1,50,T_cells,10,T_cytotoxic,10,T_cells:10; T_cytotoxic:10; NK_cells:7; T_exhaustion:3; Dendritic:1; B_cells:0
+2,50,B_cells,11,T_naive_memory,2,B_cells:11; T_naive_memory:2; T_cells:1; T_activation:1; NK_cells:0; Plasma_cells:0
+3,50,T_cells,10,T_cytotoxic,4,T_cells:10; T_cytotoxic:4; NK_cells:1; T_activation:1; T_exhaustion:1; B_cells:0
+10,50,T_cells,11,Treg,5,T_cells:11; Treg:5; T_naive_memory:2; T_activation:2; T_exhaustion:2; Plasma_cells:1
+12,50,Myeloid,8,T_naive_memory,0,Myeloid:8; Macrophage_M2_TAM:2; NK_cells:1; B_cells:1; Dendritic:1; T_cells:0
+13,50,Plasma_cells,7,T_activation,1,Plasma_cells:7; B_cells:2; T_activation:1; T_cells:0; NK_cells:0; Myeloid:0
+16,50,Epithelial_tumor,7,T_naive_memory,0,Epithelial_tumor:7; Myeloid:1; T_cells:0; NK_cells:0; B_cells:0; Plasma_cells:0
+17,50,T_cells,10,T_cytotoxic,8,T_cells:10; T_cytotoxic:8; NK_cells:5; T_exhaustion:5; Cycling:4; Dendritic:1

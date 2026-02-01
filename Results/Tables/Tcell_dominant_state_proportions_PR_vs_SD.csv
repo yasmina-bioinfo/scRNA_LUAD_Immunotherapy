@@ -1,0 +1,7 @@
+RECIST,dominant_state,fraction
+PR,Checkpoint/Exhaustion,0.2649350649350649
+PR,Cytotoxic,0.3955844155844156
+PR,Naive/Memory,0.3394805194805195
+SD,Checkpoint/Exhaustion,0.25974770642201833
+SD,Cytotoxic,0.2345183486238532
+SD,Naive/Memory,0.5057339449541285

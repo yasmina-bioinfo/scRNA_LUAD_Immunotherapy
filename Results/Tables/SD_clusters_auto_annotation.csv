@@ -1,0 +1,8 @@
+cluster,n_top_genes_used,best_major,best_major_score,best_T_state,best_T_state_score,top_labels
+4,50,Macrophage_M2_TAM,9,T_naive_memory,0,Macrophage_M2_TAM:9; Myeloid:6; B_cells:2; NK_cells:1; Dendritic:1; Fibroblast_stromal:1
+6,50,Myeloid,4,T_activation,2,Myeloid:4; T_activation:2; NK_cells:1; T_naive_memory:1; T_cells:0; B_cells:0
+8,50,Epithelial_tumor,5,T_naive_memory,0,Epithelial_tumor:5; Plasma_cells:1; T_cells:0; NK_cells:0; B_cells:0; Myeloid:0
+15,50,Epithelial_tumor,7,T_naive_memory,0,Epithelial_tumor:7; Plasma_cells:1; T_cells:0; NK_cells:0; B_cells:0; Myeloid:0
+18,50,Fibroblast_stromal,6,T_naive_memory,0,Fibroblast_stromal:6; T_cells:0; NK_cells:0; B_cells:0; Plasma_cells:0; Myeloid:0
+20,50,T_cells,0,T_naive_memory,0,T_cells:0; NK_cells:0; B_cells:0; Plasma_cells:0; Myeloid:0; Macrophage_M2_TAM:0
+21,50,T_cells,6,T_naive_memory,1,T_cells:6; Epithelial_tumor:1; T_naive_memory:1; T_activation:1; NK_cells:0; B_cells:0
