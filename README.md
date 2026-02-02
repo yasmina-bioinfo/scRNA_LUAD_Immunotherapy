@@ -7,11 +7,8 @@
 ## Project highlights
 
 - Integrated **single-cell and bulk RNA-seq analysis** of the tumor microenvironment in NSCLC patients treated with immunotherapy (GSE207422).
-<<<<<<< HEAD
 - Identification of **T cell functional states** associated with clinical response (PR vs SD), with responders enriched in **cytotoxic CD8-like programs** and non-responders enriched in **naive/memory CD4-like states**.
-=======
-- Identification of **T cell functional states** associated with clinical response (PR vs SD), with responders enriched in **cytotoxic CD8-like programs by activation-associated immune regulatory markers** and non-responders enriched in **naive/memory CD4-like states**.
->>>>>>> af4b18e (Finalize PR vs SD T cell state analysis with CD8 cytotoxic validation)
+- Identification of **T cell functional states** associated with clinical response (PR vs SD), with responders enriched in **cytotoxic CD8-like programs by activation-associated immune regulatory markers** and non-responders enriched in **naive/memory CD4-like states**. (Finalize PR vs SD T cell state analysis with CD8 cytotoxic validation)
 - Consistent immune polarization observed across **cellular (scRNA-seq)** and **tissue-level (bulk RNA-seq)** analyses using shared gene signatures.
 - Analysis emphasizes **biological interpretation, traceability, and methodological clarity**, positioning transcriptomics as a tool to understand immune mechanisms rather than a predictive black box.
 
@@ -120,4 +117,5 @@ Ongoing analyses extend this framework to additional clinical response categorie
 
 **Myriam Yasmina Soumahoro**  
 Biologist — Human immunology & transcriptomics
+
 
