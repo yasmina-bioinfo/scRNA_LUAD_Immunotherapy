@@ -7,7 +7,11 @@
 ## Project highlights
 
 - Integrated **single-cell and bulk RNA-seq analysis** of the tumor microenvironment in NSCLC patients treated with immunotherapy (GSE207422).
+<<<<<<< HEAD
 - Identification of **T cell functional states** associated with clinical response (PR vs SD), with responders enriched in **cytotoxic CD8-like programs** and non-responders enriched in **naive/memory CD4-like states**.
+=======
+- Identification of **T cell functional states** associated with clinical response (PR vs SD), with responders enriched in **cytotoxic CD8-like programs by activation-associated immune regulatory markers** and non-responders enriched in **naive/memory CD4-like states**.
+>>>>>>> af4b18e (Finalize PR vs SD T cell state analysis with CD8 cytotoxic validation)
 - Consistent immune polarization observed across **cellular (scRNA-seq)** and **tissue-level (bulk RNA-seq)** analyses using shared gene signatures.
 - Analysis emphasizes **biological interpretation, traceability, and methodological clarity**, positioning transcriptomics as a tool to understand immune mechanisms rather than a predictive black box.
 
@@ -55,6 +59,7 @@ Analyses were restricted to **partial responders (PR)** and **stable disease (SD
 - Intra–T cell zoom:
   - Cytotoxic vs naive/memory states
   - CD8-like vs CD4-like transcriptional programs
+- Validation of cytotoxic programs using a cytotoxic-like T cell subset as a supporting analysis (NB04).
 
 ### Bulk RNA-seq (NB03)
 - Use of the **same immune gene signatures** as in the single-cell analysis
@@ -69,7 +74,7 @@ Analyses were restricted to **partial responders (PR)** and **stable disease (SD
 
 - **PR samples** are enriched in **cytotoxic, CD8-like T cell programs**, consistent with effective antitumor immune engagement.
 - **SD samples** show predominance of **naive/memory and CD4-like T cell states**, suggesting a less activated immune profile.
-- Checkpoint/exhaustion-associated programs are present in both groups, indicating regulated activation rather than terminal exhaustion.
+- Checkpoint/exhaustion-associated gene programs are detectable in both groups and are interpreted as **activation-associated regulatory signals**, rather than evidence of terminal T cell exhaustion.
 - Bulk RNA-seq analyses recapitulate the same immune polarization observed at single-cell resolution.
 
 ---
