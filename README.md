@@ -107,11 +107,6 @@ Raw and processed expression matrices are not included in this repository due to
 
 ---
 
-## Ongoing work
-
-Ongoing analyses extend this framework to additional clinical response categories and explore response-associated immune states as a potential continuum, including complete responders (CR) and exhaustion-related programs. These analyses are currently exploratory and are not included in the main conclusions presented here.
-
----
 ## Author
 
 **Myriam Yasmina Soumahoro**  
