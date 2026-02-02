@@ -1,16 +1,15 @@
 # scRNA_LUAD_Immunotherapy
 
-**Integrated single-cell and bulk RNA-seq analysis of immune T cell states associated with immunotherapy response in lung cancer**
+**Integrated single-cell and bulk RNA-seq analysis of immune T cell states associated with immunotherapy response in lung cancer
 
 ---
 
 ## Project highlights
 
 - Integrated **single-cell and bulk RNA-seq analysis** of the tumor microenvironment in NSCLC patients treated with immunotherapy (GSE207422).
-- Identification of **T cell functional states** associated with clinical response (PR vs SD), with responders enriched in **cytotoxic CD8-like programs** and non-responders enriched in **naive/memory CD4-like states**.
-- Identification of **T cell functional states** associated with clinical response (PR vs SD), with responders enriched in **cytotoxic CD8-like programs by activation-associated immune regulatory markers** and non-responders enriched in **naive/memory CD4-like states**. (Finalize PR vs SD T cell state analysis with CD8 cytotoxic validation)
-- Consistent immune polarization observed across **cellular (scRNA-seq)** and **tissue-level (bulk RNA-seq)** analyses using shared gene signatures.
-- Analysis emphasizes **biological interpretation, traceability, and methodological clarity**, positioning transcriptomics as a tool to understand immune mechanisms rather than a predictive black box.
+- Identification of **T cell functional states** associated with clinical response (PR vs SD), with responders enriched in cytotoxic CD8-like programs accompanied by activation-associated immune regulatory markers, and non-responders enriched in naive/memory CD4-like states.
+- Consistent immune polarization observed across cellular (scRNA-seq) and tissue-level (bulk RNA-seq) analyses using shared gene signatures.
+- Analysis emphasizes biological interpretation, traceability, and methodological clarity, positioning transcriptomics as a tool to understand immune mechanisms.
 
 ---
 
